@@ -1,14 +1,4 @@
-# Walmart-Retail-Data-Analysis-Using-Tableau
-
-![Walmart_logo_transparent_png](https://user-images.githubusercontent.com/124501309/227757204-52e53fee-0d9b-48d7-b1d3-dba73a932715.png)
-
-## LINKS:
-
-Lets Connect 
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-[Go to My Dashboard](https://public.tableau.com/app/profile/gulshan.gedam/viz/WalmartRetailDataAnalysisTableauDashboard/WalmartRetailDataAnalysis?publish=yes)
+Task 1: 
 
 ## PROJECT NAME:
 
@@ -32,16 +22,6 @@ The Walmart Retail data has 26 fields (city, customer name, order date, etc.) an
   6. Show the average discount
   7. Regional quarterly profit
 
-## DASHBOARD: 
-
-![Dashboard 1](https://user-images.githubusercontent.com/124501309/226589494-7fe7f21e-e83c-464b-b537-0f6f39cd2b8e.png)
-
-### VIDEO:
-
-
-
-https://user-images.githubusercontent.com/124501309/226589583-77c11f60-c51d-4d83-bb92-9bedd68e6c09.mp4
-
 ## FINDINGS:
   
   1. South Dakota has the highest average profit $706 and Montana has the least profit -$186.
@@ -58,20 +38,4 @@ https://user-images.githubusercontent.com/124501309/226589583-77c11f60-c51d-4d83
      quarterly average profit from Central region. In 2014 Q4 with$383 was the highest quarterly average profit from Central region. 
      In 2015 Q1 with $284 was the highest quarterly average profit from East region.
 
-## NOTE:
 
-I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
-
-[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
-
-## My Other Projects:
-
-- [ATLIQ Sales Insight](https://github.com/gulshang7/ATLIQ_Sales_Insight_Data_Analysis_using_SQL_and_Tableau) 💻
-
-- [Financial Consumer Complaints Data Analysis](https://github.com/gulshang7/Financial-Consumer-Complaints-Data-Analysis-Using-Tableau-Dashboard) 📜
-
-- [KPI Dashboard of Car Sales Opportunities](https://github.com/gulshang7/KPI_Dashboard_of_Car_sales_Win_Loss_Data_Analysis_using_Excel_and_Tableau) 🛰️
-
-- [Github Profile](https://github.com/gulshang7) 🧮
-
-- [Linkedin](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🤝
